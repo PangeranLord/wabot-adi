@@ -14,15 +14,15 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ISI APIKEY LU',
+  'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://recoders-area.caliph.repl.co': 'FreeApi',
   'https://vhtear.com': 'AdiOfficial404',
   'https://api.zeks.xyz': 'apivinz'
 }
 
 // Sticker WM
-global.packname = 'Sticker Dari Bot Adi'
-global.author = 'GH: Adi-OfficialL'
+global.packname = '©Pangeran'
+global.author = 'IG: abengrndna_'
 
 global.multiplier = 69 // The higher, The harder levelup
 
